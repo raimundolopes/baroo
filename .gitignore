@@ -18,6 +18,7 @@ bin/
 *.iml
 .project
 .classpath
+.settings
 
 # OS-specific files
 .DS_Store
